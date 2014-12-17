@@ -1,6 +1,5 @@
 
-Program Author: Nathan Marder
-Program Description: This program inputs and unsolved 
+This program inputs and unsolved 
 Sudoku puzzle. By using a recursive method with
 backtracking, a solution is printed to the output 
 terminal. The program input, unsolved Sudoku board,
