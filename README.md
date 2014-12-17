@@ -1,11 +1,5 @@
 
-This program inputs and unsolved 	
-Sudoku puzzle. By using a recursive method with	
-backtracking, a solution is printed to the output 	
-terminal. The program input, unsolved Sudoku board,	
-comes from a file within the project's resources. 	
-Optional puzzle below: cut and paste it into a file 	
-named 'input.txt'	
+This program inputs and unsolved Sudoku puzzle. By using a recursive method with backtracking, a solution is printed to the output terminal. The program input, unsolved Sudoku board, comes from a file within the project's resources. Optional puzzle below: cut and paste it into a file named 'input.txt'	
 	
 	0 0 3 0 0 8 0 2 0
 	6 0 0 3 0 0 0 0 9
